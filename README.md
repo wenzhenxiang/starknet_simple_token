@@ -55,7 +55,7 @@ Contract deployed:
 
 `starkli invoke 0x06fcc169f27c3bb2e7549ae993fca974c4dcb06834e9d0469de9dc620c11e1c6 transfer 0x063077A1b4e4858A61848b2FBDb2E040b38B0eE3cbcdBCb798B70664a8258584 u256:300`
 
-Note: The u256 in the above command is simplified using strkli's [argument parsing](https://book.starkli.rs/argument-resolution.html).
+Note: The u256 in the above command is simplified using starkli's [argument parsing](https://book.starkli.rs/argument-resolution.html).
 
 ```bash
 WARNING: no valid provider option found. Falling back to using the sequencer gateway for the goerli-1 network. Doing this is discouraged. See <https://book.starkli.rs/providers> for more details.
